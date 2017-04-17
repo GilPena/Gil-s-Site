@@ -94,13 +94,6 @@ p {
 	min-height: 100vh;
 	margin-bottom: 0px !important;
 	border-radius: 0px !important;
-	width: Xu;
-	height: Yu;
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	margin-left: -(X/2)u;
-	margin-top: -(Y/2)u;
 }
 
 .title-font {
