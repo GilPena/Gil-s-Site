@@ -85,15 +85,17 @@ p {
 }
 
 .jumbotron {
-    background-image: url("../images/night-mountain.jpg");
-    background-size: 100% 100%;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    color: white;
-    text-shadow: 5px 5px 10px black;
+	background-image: url("../images/night-mountain.jpg");
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	color: white;
+	text-shadow: 5px 5px 10px black;
+	height: 50%;
+	width: 50%;
 	min-height: 100vh;
-    margin-bottom: 0px !important;
-    border-radius: 0px !important;
+	margin-bottom: 0px !important;
+	border-radius: 0px !important;
 }
 
 .title-font {
